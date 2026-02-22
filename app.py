@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # --- CONFIGURATION FOR PYTHONANYWHERE ---
 # IMPORTANT: Replace 'azizurrehman' with your actual PythonAnywhere username
-USERNAME = 'azizurrehman'
+USERNAME = 'aziz786'
 BASE_DIR = f'/home/{USERNAME}/flipbook-maker'
 
 # Paths for folders
